@@ -1,0 +1,4 @@
+# requirements.txt
+discord.py
+openai>=1.0.0 # Good practice to ensure compatible version
+python-dotenv
