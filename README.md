@@ -33,23 +33,13 @@ Before you begin, ensure you have the following:
     cd path/to/your/bot/folder
     ```
 
-3.  **Create `requirements.txt`:**
-    Create a file named `requirements.txt` in the project directory with the following content:
-
-    ```txt
-    # requirements.txt
-    discord.py
-    openai>=1.0.0 # Specify version if needed
-    python-dotenv
-    ```
-
-4.  **Install Dependencies:**
+3.  **Install Dependencies:**
     Open your terminal or command prompt in the project directory and run:
     ```bash
     pip install -r requirements.txt
     ```
 
-5.  **Edit the `.env` File:**
+4.  **Edit the `.env` File:**
     Edit the file named `.env` in the *same directory* as your bot script with a text editor. Add your API keys and Assistant ID to this file like so:
 
     ```dotenv
@@ -60,7 +50,7 @@ Before you begin, ensure you have the following:
     ```
     Replace the placeholder text with your actual credentials.
 
-6.  **(Optional) Prepare `.gitignore`:**
+5.  **(Optional) Prepare `.gitignore`:**
     If you plan to use Git, ensure your `.gitignore` file prevents sensitive information from being committed. Create or edit `.gitignore` to include:
     ```gitignore
     .env
