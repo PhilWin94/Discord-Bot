@@ -49,8 +49,8 @@ Before you begin, ensure you have the following:
     pip install -r requirements.txt
     ```
 
-5.  **Create the `.env` File:**
-    Create a file named exactly `.env` in the *same directory* as your bot script. Add your API keys and Assistant ID to this file like so:
+5.  **Edit the `.env` File:**
+    Edit the file named `.env` in the *same directory* as your bot script with a text editor. Add your API keys and Assistant ID to this file like so:
 
     ```dotenv
     # .env file - Keep this file secure and DO NOT commit it to Git!
