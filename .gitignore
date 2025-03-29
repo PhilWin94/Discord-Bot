@@ -1,5 +1,5 @@
 # .gitignore file
-.env
-user_threads_data.json # Also good to ignore your data file
-__pycache__/
-*.pyc
+#.env
+#user_threads_data.json # Also good to ignore your data file
+#__pycache__/
+#*.pyc
