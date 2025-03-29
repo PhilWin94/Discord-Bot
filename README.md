@@ -1,4 +1,4 @@
-# Discord AI Assistant Bot
+# Open-AI Discord Assistant Bot
 
 ## Description
 
