@@ -26,7 +26,7 @@ Before you begin, ensure you have the following:
 
 1.  **Download or Clone the Code:**
     * If using Git: `git clone https://github.com/PhilWin94/Discord-Bot.git`
-    * Otherwise: Download the code files (`your_bot_script_name.py`, etc.) into a dedicated folder on your PC.
+    * Otherwise: Download the code files into a dedicated folder on your PC.
 
 2.  **Navigate to the Project Directory:**
     ```bash
